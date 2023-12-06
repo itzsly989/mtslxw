@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Itzsly0 👋</h1>
+<h1 align="center">Hey I'm Itzsly1 👋</h1>
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
   <img src="https://discord.c99.nl/widget/theme-1/1133789750646546583.png"></img>
 
-  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSly0&show_icons=true&theme=radical)
+  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSly1&show_icons=true&theme=radical)
 </div>
 <h1 align="center">listening to spotify🎶 </h1>
 
