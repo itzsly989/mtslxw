@@ -28,6 +28,7 @@ I'm ItzSly and I typically work with Python and Lua. I started learning how to c
 * CSS
 * python
 * c++
+* c#
 
 ## Goals
 
