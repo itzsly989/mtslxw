@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Itzsly1 👋</h1>
+<h1 align="center">Hey I'm mtslxw 👋</h1>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">About👤</h1>
-I'm ItzSly and I typically work with Python and Lua. I started learning how to code about 2017-18, when I was bored grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+I'm mtslxw and I typically work with Python and Lua. I started learning how to code about 2017-18, when I was bored grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
 </div>
 
 <h1 align="center">Languages I know🕹️</h1>
