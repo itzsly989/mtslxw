@@ -1,13 +1,13 @@
-<h1 align="center">Hey I'm mtslxw 👋</h1>
+<h1 align="center">Hey I'm Itzsly 👋</h1>
 
 <div align="center">
 
   [![wakatime](https://wakatime.com/badge/user/198b5788-cbba-42f5-814a-88c514254ee6/project/c3a8d81d-498c-4097-ba86-013aa960533a.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
   ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
 
-  <img src="https://discord.c99.nl/widget/theme-1/1181633729114947624.png"></img>
+  <img src="https://discord.c99.nl/widget/theme-1/852724901285855273.png"></img>
 
-  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtslxw&show_icons=true&theme=radical)
+  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzsly989&show_icons=true&theme=radical)
 </div>
 <h1 align="center">listening to spotify🎶 </h1>
 
@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">About👤</h1>
-I'm mtslxw and I typically work with Python and Lua. I started learning how to code about 2017-18, when I was bored grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+I'm itzsly and I typically work with Python and Lua. I started learning how to code about 2017-18, when I was bored grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
 </div>
 
 <h1 align="center">Languages I know🕹️</h1>
